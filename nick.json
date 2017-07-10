@@ -1,0 +1,26 @@
+{
+  "full-name": "Nicholas Nasky",
+  "description": "He is pretty OK most of the time!",
+  "pets": [
+    {
+      "name": "roscoe",
+      "color": "spotted brown and white",
+      "kind": "dog"
+    },
+    {
+      "name": "lizzie",
+      "color": "black, gray and white",
+      "kind": "dog"
+    },
+    {
+      "name": "nellie",
+      "color": "chocolate",
+      "kind": "dog"
+    }
+  ],
+  "favorites": {
+    "color": "blue",
+    "number": 23,
+    "animal": "monkeys"
+  }
+}
